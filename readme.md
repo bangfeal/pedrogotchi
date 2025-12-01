@@ -18,3 +18,6 @@ como tú.
 Conecta un buzzer a GPIO35 para disfrutar esos clásicos beeps por click que tanto
 te recuerdan a tu infancia. En esta última versión del software de Pedrogotchi!!!
 aún faltan muchas funciones, pero quién sabe, quizás algún día lleguen.
+
+Pedrogotchi!!! está diseñado para servir con un fotoresistor específico, y con una
+pantalla LED ST7789 de 240x240 píxeles de resolución.
